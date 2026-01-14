@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [FaKeRiley]
+# 👋 Hi, I'm FaKeRiley
 
 Developer focused on **C#**, **Python** and **Game Systems**.  
 I like building tools, experimenting with internals and keeping things clean.
@@ -14,7 +14,7 @@ I like building tools, experimenting with internals and keeping things clean.
 ---
 
 ### 🛠 Stack
-`C#` · `Python` · `Unity` · `.NET` · `Git`
+`C#` · `Python` · `Unity` · `.NET` · `Java`
 
 ---
 
