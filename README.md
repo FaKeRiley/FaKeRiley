@@ -1,29 +1,28 @@
-# 👋 Hi, I'm FaKeRiley
+# 👋 Hi, I'm [Dein Name]
 
-Developer focused on **C#**, **Python** and **Game Systems**.  
-I like building tools, experimenting with internals and keeping things clean.
-
----
-
-### 🧩 What I do
-- Game tooling & mods
-- Unity development
-- Automation & bots
-- Low-level experiments
+**[Deine Rolle, z.B. Software Developer]** based in **[Dein Ort]**.  
+I focus on writing clean, maintainable code and building user-centric applications.
 
 ---
 
-### 🛠 Stack
-`C#` · `Python` · `Unity` · `.NET` · `Java`
+### 🛠 Tech Stack
+* **Languages:** JavaScript (ES6+), TypeScript, Python
+* **Frontend:** React, Next.js, Tailwind CSS
+* **Backend:** Node.js, PostgreSQL, Prisma
 
 ---
 
-## 📊 GitHub
+### 📁 Top Projects
+* [KMPlist-bot-source-Code](https://github.com/FaKeRiley/KMPlist-bot-source-Code) - C#
+* [VRChat-Playerlist](https://github.com/FaKeRiley/VRChat-Playerlist) – C#
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaKeRiley&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FaKeRiley&layout=compact&hide_border=true&theme=transparent)
+### 📊 Activity
+<p align="left">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=[DEIN-USERNAME]&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777" />
+</p>
 
 ---
 
-> Building things that work. Improving things that don't.
+### 📫 Reach me
+[LinkedIn](Link) / [E-Mail](mailto:deine@mail.de) / [Twitter/X](Link)
