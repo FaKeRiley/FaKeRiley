@@ -25,5 +25,4 @@
 ---
 
 ### 📫 Reach me
-**Discord:** `DeinUsername#0000`  
-**E-Mail:** [deine-mail@beispiel.de](mailto:deine-mail@beispiel.de)
+**Discord:** `FaKeRiley`  
