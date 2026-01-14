@@ -19,8 +19,8 @@ I like building tools, experimenting with internals and keeping things clean.
 ---
 
 ### 📊 GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME&layout=compact&hide_border=true&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=FaKeRiley&show_icons=true&hide_title=true&hide_border=true&theme=transparent)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaKeRiley&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
