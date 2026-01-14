@@ -1,25 +1,31 @@
 # 👋 Hi, I'm FaKeRiley
 
-**[Deine Rolle, z.B. Software Developer]** based in **[Dein Ort]**.  
-I focus on writing clean, maintainable code and building user-centric applications.
+**C# & Python Developer** Ich begeistere mich für Automatisierung und nützliche Tools.
+
+---
+
+### 📂 Top Projects
+* [VRChat-Playerlist](https://github.com/FaKeRiley/VRChat-Playerlist) – Ein praktisches Tool für VRChat-User.
+* [KMPlist-bot](https://github.com/FaKeRiley/KMPlist-bot-source-Code) – Discord Bot Source Code.
 
 ---
 
 ### 🛠 Tech Stack
-* **Languages:** JavaScript (ES6+), TypeScript, Python
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Backend:** Node.js, PostgreSQL, Prisma
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-### 📁 Top Projects
-* [KMPlist-bot-source-Code](https://github.com/FaKeRiley/KMPlist-bot-source-Code) - C#
-* [VRChat-Playerlist](https://github.com/FaKeRiley/VRChat-Playerlist) – C#
 ---
 
 ### 📊 Activity
 <p align="left">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=[DEIN-USERNAME]&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=777" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=FaKeRiley&show_icons=true&theme=tokyonight&hide_border=true" alt="FaKeRiley's GitHub Stats" />
+</p>
+
+---
+
+### 📫 Reach me
+[Discord](https://discord.com) / [E-Mail](mailto:deine-mail@beispiel.de)
 </p>
 
 ---
